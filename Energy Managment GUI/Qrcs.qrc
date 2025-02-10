@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Qrc/energy-class.png</file>
+        <file>Qrc/login.png</file>
+        <file>Qrc/sleep.png</file>
+        <file>Qrc/homepage.png</file>
+        <file>Qrc/settings.png</file>
+        <file>Qrc/mixer.png</file>
+        <file>Qrc/connected.png</file>
+        <file>Qrc/disconnected.png</file>
+        <file>Qrc/background.png</file>
+        <file>Qrc/Gemini_Generated_Image_7z8wrg7z8wrg7z8w.jpeg</file>
+        <file>Qrc/thermostat.png</file>
+        <file>Qrc/turn-back.png</file>
+        <file>Qrc/saveSettings.png</file>
+        <file>Qrc/on.png</file>
+        <file>Qrc/off.png</file>
+        <file>Qrc/info.png</file>
+        <file>Qrc/futuristic-smart-city-with-5g-global-network-technology.jpg</file>
+        <file>Qrc/cloud-computing-banner-background-smart-city.jpg</file>
+        <file>Qrc/hologram-projector-screen-with-cloud-system-technology.jpg</file>
+    </qresource>
+</RCC>
